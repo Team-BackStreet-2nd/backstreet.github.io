@@ -47,14 +47,14 @@ en: &DEFAULT_EN
     events:
       - title: "Project Kickoff"
         year: "2022"
-        desc: "The BackStreet project officially began, laying the foundation for future development."
+        desc: "The BackStreet project officially began within Soongsil University’s game development club *Gammaru*, laying the foundation for future development."
         image: assets/img/timeline/1.jpg
-        alt: "Project start illustration"
+        alt: "Kickoff"
       - title: "Founding Team Formation"
         year: "October 2024"
         desc: "The core founding team was formed, bringing together diverse expertise and vision."
         image: assets/img/timeline/2.jpg
-        alt: "Team formation"
+        alt: "Pre-Startup"
       - title: "KOCCA Startup Support"
         year: "April 2025"
         desc: "Selected for the KOCCA Preliminary Startup Support Program, gaining recognition and resources for growth."
@@ -65,14 +65,19 @@ en: &DEFAULT_EN
         desc: "Chosen as part of Smilegate Membership 17th cohort, expanding opportunities for collaboration and mentorship."
         image: assets/img/timeline/4.jpg
         alt: "Smilegate membership"
+      - title: "BackStreet Early Access"
+        year: "Q4, 2026"
+        desc: "Scheduled for release on Steam Early Access in Q4 2026, marking the beginning of BackStreet’s journey with players worldwide."
+        image: assets/img/timeline/5.jpg
+        alt: "BackStreet Early Access"
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Team-BackStreet is a team that strives to create the ultimate action game while fostering a culture of growth and collaboration."
+    text: "The Journey of Team-BackStreet"
+    body: "**Team-BackStreet** is a team that strives to create the ultimate action game while fostering a culture of growth and collaboration. Since its founding in 2024, the team has continued to achieve remarkable results and build a strong track record. Looking ahead, Team-BackStreet is preparing to launch *BackStreet* in Early Access in the fourth quarter of 2026, marking an exciting milestone in its journey. At the same time, the team is actively seeking global partners to expand its reach and bring its vision to players around the world."
     section: about
 
   clients:

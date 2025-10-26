@@ -1,11 +1,11 @@
 ---
 caption:
-  title: 2024 BIC (Busan Indie Connect)
-  subtitle: Rookie Division
+  title: 2024 BIC 
+  subtitle: Final Selection in the Rookie Division
   thumbnail: /assets/img/portfolio/bic_thumbnail.jpg
 
 title: 2024 BIC (Busan Indie Connect)
-subtitle: Rookie Division
+subtitle: Final Selection in the Rookie Division
 image: assets/img/portfolio/bic_thumbnail.jpg
 alt: Shirts on a hanger
 ---
