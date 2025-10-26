@@ -72,13 +72,13 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Team-BackStreet is a team that strives to create the ultimate action game while fostering a culture of growth and collaboration. **Markdown** supported."
+    body: "Team-BackStreet is a team that strives to creat  e the ultimate action game while fostering a culture of growth and collaboration. **Markdown** supported."
     section: about
 
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "no" #"yes/no"
     list:
       - title: "KOCCA"
         url: https://www.kocca.kr/kocca/main.do
@@ -87,7 +87,8 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "Meet the people behind BackStreet."
-    subtext: "We are **Team-BackStreet** — a group of passionate creators united by the vision of building the *ultimate action roguelite experience*.  Each member brings unique expertise, from **game design** and **programming** to **art** and **storytelling**, and together we foster a culture of *growth*, *creativity*, and *collaboration*."section: team
+    subtext: "We are **Team-BackStreet** — a group of passionate creators united by the vision of building the *ultimate action roguelite experience*.  Each member brings unique expertise, from **game design** and **programming** to **art** and **storytelling**, and together we foster a culture of *growth*, *creativity*, and *collaboration*."
+    section: team
     people:
       - name: "Jaewon Park"
         role: "Lead Designer"
