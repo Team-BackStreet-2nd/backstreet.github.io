@@ -83,6 +83,12 @@ en: &DEFAULT_EN
       - title: "KOCCA"
         url: https://www.kocca.kr/kocca/main.do
         logo: assets/img/clients/kocca.png
+      - title: "Smilegate"
+        url: https://futurelab.center/
+        logo: assets/img/clients/smilegate.png
+      - title: "SoongsilUniversity"
+        url: https://ssu.ac.kr/
+        logo: assets/img/clients/soongsiluniversity.jpg
 
   team:
     title: "OUR AMAZING TEAM"
