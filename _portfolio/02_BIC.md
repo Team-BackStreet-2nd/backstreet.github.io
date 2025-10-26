@@ -10,10 +10,12 @@ image: assets/img/portfolio/bic_thumbnail.jpg
 alt: Shirts on a hanger
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+**BackStreet** successfully completed its exhibition at the 2024 **BIC Festival (Busan Indie Connect Festival)**, held at BEXCO in Busan.  
 
-{:.list-inline}
+BIC is an **international indie game festival** hosted annually in Busan,  
+and in 2024 it reached a record scale with **245 games from 28 countries** showcased.  
+On this stage, BackStreet presented its vision to global players and industry partners,  
+marking another milestone in its journey.  
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+{:.list-inline}  
+- Date: 2024.07 

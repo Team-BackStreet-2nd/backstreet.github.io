@@ -12,12 +12,12 @@ image: assets/img/portfolio/indiecraft_thumbnail.jpg
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
+**BackStreet** was selected as one of the *Top 20 in the Challenger Division* 
+at **2024 Indiecraft**.  
+Indiecraft is a leading indie game festival in Korea, organized by Seongnam City and the Korea Mobile Game Association, where developers showcase their projects and explore opportunities for global expansion.  
 
-optional info list (delete if not using):
+BackStreet earned recognition on this stage and is preparing to meet more players in the future.  
 
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+{:.list-inline}  
+- Date: 2024.04 
 

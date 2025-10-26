@@ -12,10 +12,12 @@ alt: Keep Exploring
 
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+**BackStreet** was nominated as a **Finalist in both the Student Division and the Hobby Division** at the 2025 **GDWC (Game Development World Championship)**.  
 
-{:.list-inline}
+GDWC is one of the **largest global game development competitions**, attracting thousands of developers from around the world each year.  
+It provides a stage for indie, student, hobby, and professional developers to showcase their projects and gain international recognition.  
 
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+By being nominated as a finalist in two categories, BackStreet demonstrated its potential on the global stage and marked another milestone in its journey.  
+
+{:.list-inline}  
+- Date: 2025.07  

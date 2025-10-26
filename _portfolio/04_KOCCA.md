@@ -12,10 +12,11 @@ alt: Keep Exploring
 
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+**BackStreet** was selected as one of the **Top 10 Excellent Games** in the 2025 **KOCCA (Korea Creative Content Agency) Pre-Startup Indie Game Support Program**,  
+out of 20 participating teams.  
 
-{:.list-inline}
+Building on this achievement, BackStreet is also scheduled to participate in the **Korean Indie Game Showcase exhibition in December 2025**,  
+presenting the game to both domestic and international players as well as industry partners.  
 
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+{:.list-inline}  
+- Date: 2025.12 
