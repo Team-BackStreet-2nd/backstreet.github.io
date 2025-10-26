@@ -13,7 +13,7 @@
 
 #theme: jekyll-agency
 
-url    : "https://team-backstreet-2nd.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://team-backstreet-2nd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/backstreet.github.io" # the subpath of your site, e.g. /blog
 
 title      : Team-BackStreet
