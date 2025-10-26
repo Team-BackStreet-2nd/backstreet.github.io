@@ -123,7 +123,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Have questions or want to collaborate? Reach out to Team-BackStreet and we’ll get back to you soon."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -133,7 +133,7 @@ en: &DEFAULT_EN
     phone-validation: "Please enter your phone number."
     message: "Message*"
     message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
+    subject: "BackStreet Contact Form Submission"
     submit: "Send Message"
 
   footer:
