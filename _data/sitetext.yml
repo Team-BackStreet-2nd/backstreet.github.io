@@ -35,7 +35,7 @@ en: &DEFAULT_EN
   portfolio:
     title: "Awards"
     text: "Achievements and recognitions earned over time."
-    section: award
+    section: portfolio
     closebutton: "Close"
 
   timeline:
