@@ -72,7 +72,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Team-BackStreet is a team that strives to creat  e the ultimate action game while fostering a culture of growth and collaboration. **Markdown** supported."
+    body: "Team-BackStreet is a team that strives to create the ultimate action game while fostering a culture of growth and collaboration. **Markdown** supported."
     section: about
 
   clients:
@@ -82,7 +82,7 @@ en: &DEFAULT_EN
     list:
       - title: "KOCCA"
         url: https://www.kocca.kr/kocca/main.do
-        logo: assets/img/clients/kocca.jpg
+        logo: assets/img/clients/kocca.png
 
   team:
     title: "OUR AMAZING TEAM"
