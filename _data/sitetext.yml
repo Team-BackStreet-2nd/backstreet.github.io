@@ -16,20 +16,21 @@ en: &DEFAULT_EN
     button: MORE INFO
     buttonlink: "#services"
 
+  #find more at https://fontawesome.com/icons
   services:
     title: "About BackStreet"
     text: "3D Back-View Action Roguelite"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Fast-Paced Combat"
+        desc: "Engage in a combo-based, high-speed combat system that lets you counter a wide variety of enemy patterns."
+        icon: fas fa-bolt
+      - title: "Roguelite Growth"
+        desc: "Customize your combat style with Boosterchips and battle applications earned from defeating enemies, creating a unique build every run."
+        icon: fas fa-microchip
+      - title: "Post-Apocalyptic World"
+        desc: "Experience a journey to uncover the protagonist’s identity in a city dominated by the AI overlord 3COS and corrupted machines."
+        icon: fas fa-robot
 
   portfolio:
     title: "Portfolio"
