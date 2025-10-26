@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Indiecraft Top20
   subtitle: subtitle
-  thumbnail: "{{ '/assets/img/portfolio/indiecraft_thumbnail.jpg' | relative_url }}"
+  thumbnail: /assets/img/portfolio/indiecraft_thumbnail.jpg
   
 #what displays when the item is clicked:
 title: Title
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: "{{ '/assets/img/portfolio/indiecraft_thumbnail.jpg' | relative_url }}"
+image: assets/img/portfolio/indiecraft_thumbnail.jpg
  #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 

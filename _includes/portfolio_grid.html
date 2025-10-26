@@ -17,7 +17,8 @@
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
-          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+          <!-- 여기서 baseurl을 붙여줌 -->
+          <img class="img-fluid" src="{{ site.baseurl }}{{ project.caption.thumbnail }}" alt="{{ project.caption.title }}">
         </a>
         <div class="portfolio-caption">
           <h4>{{ project.caption.title }}</h4>
@@ -46,7 +47,8 @@
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
-          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+          <!-- 여기서도 동일하게 baseurl 추가 -->
+          <img class="img-fluid" src="{{ site.baseurl }}{{ project.caption.thumbnail }}" alt="{{ project.caption.title }}">
         </a>
         <div class="portfolio-caption">
           <h4>{{ project.caption.title }}</h4>
