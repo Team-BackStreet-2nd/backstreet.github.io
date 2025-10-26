@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Team-BackStreet
+    text: FOR THE BEST ACTION GAME
+    button: MORE INFO
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "About BackStreet"
+    text: "3D Back-View Action Roguelite"
     section: services
     list:
       - title: "E-Commerce"
