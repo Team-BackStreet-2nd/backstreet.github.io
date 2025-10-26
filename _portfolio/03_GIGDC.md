@@ -3,11 +3,11 @@
 caption:
   title: 2025 GIGDC
   subtitle: University Division Silver Award
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: /assets/img/portfolio/gigdc_thumbnail.jpg
 
 title: 2025 GIGDC
 subtitle: University Division Silver Award
-image: /assets/img/portfolio/gigdc_thumbnail.jpg
+image: assets/img/portfolio/gigdc_thumbnail.jpg
 alt: Keep Exploring
 
 ---
