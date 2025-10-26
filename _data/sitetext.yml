@@ -95,13 +95,13 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Meet the people behind BackStreet."
+    subtext: "We are Team-BackStreet — a group of passionate creators united by the vision of building the ultimate action roguelite experience.  Each member brings unique expertise, from game design and programming to art and storytelling, and together we foster a culture of growth, creativity, and collaboration."
     section: team
     people:
-      - name: "Kay Garland"
+      - name: "Jaewon Park"
         role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/1.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -109,19 +109,19 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Jaeho Lee"
+        role: "Founder, Programmer"
+        image: assets/img/team/2.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/backstreetjaeho/
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Yuho Hwang"
+        role: "Lead Programmer"
+        image: assets/img/team/3.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
