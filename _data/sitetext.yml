@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Team-BackStreet
+    title: Oriburger Games
     text: FOR THE BEST ACTION GAME
     button: MORE INFO
     buttonlink: "#services"
@@ -76,8 +76,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "The Journey of Team-BackStreet"
-    body: "**Team-BackStreet** is a team that strives to create the ultimate action game while fostering a culture of growth and collaboration. Since its founding in 2024, the team has continued to achieve remarkable results and build a strong track record. Looking ahead, Team-BackStreet is preparing to launch *BackStreet* in Early Access in the fourth quarter of 2026, marking an exciting milestone in its journey. At the same time, the team is actively seeking global partners to expand its reach and bring its vision to players around the world."
+    text: "The Journey of Oriburger Games"
+    body: "**Oriburger Games** is a team that strives to create the ultimate action game while fostering a culture of growth and collaboration. Since its founding in 2024, the team has continued to achieve remarkable results and build a strong track record. Looking ahead, Oriburger Games is preparing to launch *BackStreet* in Early Access in the fourth quarter of 2026, marking an exciting milestone in its journey. At the same time, the team is actively seeking global partners to expand its reach and bring its vision to players around the world."
     section: about
 
   clients:
@@ -98,7 +98,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "Meet the people behind BackStreet."
-    subtext: "We are **Team-BackStreet** — a group of passionate creators united by the vision of building the *ultimate action roguelite experience*.  Each member brings unique expertise, from **game design** and **programming** to **art** and **storytelling**, and together we foster a culture of *growth*, *creativity*, and *collaboration*."
+    subtext: "We are **Oriburger Games** — a group of passionate creators united by the vision of building the *ultimate action roguelite experience*.  Each member brings unique expertise, from **game design** and **programming** to **art** and **storytelling**, and together we foster a culture of *growth*, *creativity*, and *collaboration*."
     section: team
     people:
       - name: "Jaewon Park"
@@ -134,7 +134,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Have questions or want to collaborate? Reach out to Team-BackStreet and we’ll get back to you soon."
+    text: "Have questions or want to collaborate? Reach out to Oriburger Games and we’ll get back to you soon."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
