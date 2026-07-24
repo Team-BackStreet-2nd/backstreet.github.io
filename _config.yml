@@ -13,13 +13,13 @@
 
 #theme: jekyll-agency
 
-url    : "https://team-backstreet-2nd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/backstreet.github.io" # the subpath of your site, e.g. /blog
+url    : "https://oriburger.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/oriburger.github.io" # the subpath of your site, e.g. /blog
 
-title      : Team-BackStreet
+title      : OriburgerGames
 email      : teambackstreetforever@gmail.com #this is also the email contact forms will go to
-description: "For the best action game, Team-BackStreet"
-author     : Team-BackStreet
+description: "For the best action game, Oriburger Games"
+author     : OriburgerGames
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
